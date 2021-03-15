@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'waist_rot', 'waist_tilt', 'r_should_rot', 'l_should_rot', 'head_roll', 'head_pitch', 'head_yaw', ]
